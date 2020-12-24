@@ -1,2 +1,2 @@
 # GOInvesters
-Login, Signup, Dashboard using servelet 
+Login, Signup, Dashboard with DataBase connectivity using servelet 
